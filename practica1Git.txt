@@ -1,1 +1,4 @@
-Práctica 1. Esto es una prueba de GIT.
+
+
+Esto es una nueva línea de prueba.
+Esto es otra línea de prueba.
